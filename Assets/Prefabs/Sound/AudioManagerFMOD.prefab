@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &566023844707300771
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 566023844707300770}
+  - component: {fileID: 566023844707300769}
+  m_Layer: 0
+  m_Name: FMODEvents
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &566023844707300770
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 566023844707300771}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 566023846072713813}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &566023844707300769
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 566023844707300771}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 229df064405062a458126e5e17018d52, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <RIndex>k__BackingField:
+    Guid:
+      Data1: 1243234865
+      Data2: 1261569189
+      Data3: 953269690
+      Data4: -109748165
+    Path: event:/Sound Fingers/Finger_R1
+  <RMiddle>k__BackingField:
+    Guid:
+      Data1: -1126431923
+      Data2: 1268986818
+      Data3: 1373214854
+      Data4: -1259376059
+    Path: event:/Sound Fingers/Finger_R2
+  <RRing>k__BackingField:
+    Guid:
+      Data1: -719961410
+      Data2: 1279395669
+      Data3: 292097949
+      Data4: -1474444550
+    Path: event:/Sound Fingers/Finger_R3
+  <RLittle>k__BackingField:
+    Guid:
+      Data1: 16329297
+      Data2: 1317303519
+      Data3: -366214469
+      Data4: -653537587
+    Path: event:/Sound Fingers/Finger_R4
+  <RThumb>k__BackingField:
+    Guid:
+      Data1: 2056153522
+      Data2: 1126076364
+      Data3: 1851457441
+      Data4: -849733054
+    Path: event:/Sound Fingers/Finger_R5
+  <LIndex>k__BackingField:
+    Guid:
+      Data1: -325462833
+      Data2: 1274207983
+      Data3: 1173456540
+      Data4: 196101583
+    Path: event:/Sound Fingers/Finger_L1
+  <LMiddle>k__BackingField:
+    Guid:
+      Data1: 973025439
+      Data2: 1210921234
+      Data3: -1651079772
+      Data4: -453539665
+    Path: event:/Sound Fingers/Finger_L2
+  <LRing>k__BackingField:
+    Guid:
+      Data1: -1978492398
+      Data2: 1180833664
+      Data3: -2123754598
+      Data4: 425123669
+    Path: event:/Sound Fingers/Finger_L3
+  <LLittle>k__BackingField:
+    Guid:
+      Data1: 1144050429
+      Data2: 1297805736
+      Data3: -1954242402
+      Data4: 605773204
+    Path: event:/Sound Fingers/Finger_L4
+  <LThumb>k__BackingField:
+    Guid:
+      Data1: 1465466728
+      Data2: 1108485187
+      Data3: 1453849243
+      Data4: -635770283
+    Path: event:/Sound Fingers/Finger_L5
+  <ButtonClick>k__BackingField:
+    Guid:
+      Data1: 1408087246
+      Data2: 1095936101
+      Data3: 233581990
+      Data4: 1685501933
+    Path: event:/UI Sounds/Buttons
+  <ButtonClick2>k__BackingField:
+    Guid:
+      Data1: -751852117
+      Data2: 1220288642
+      Data3: 1860039307
+      Data4: -185662559
+    Path: event:/UI Sounds/Button_2
+  <ButtonClick3>k__BackingField:
+    Guid:
+      Data1: -510619170
+      Data2: 1199388628
+      Data3: 2146454184
+      Data4: 913975640
+    Path: event:/UI Sounds/Button_3
+  <Metronom>k__BackingField:
+    Guid:
+      Data1: -887119271
+      Data2: 1313210005
+      Data3: 1822405303
+      Data4: 1524179948
+    Path: event:/Sounds Drums/Metronom
+  <Clap>k__BackingField:
+    Guid:
+      Data1: 1505020178
+      Data2: 1174583535
+      Data3: -52009303
+      Data4: 920837668
+    Path: event:/Sounds Drums/Clap
+  <DrumBass>k__BackingField:
+    Guid:
+      Data1: 1696757796
+      Data2: 1334346549
+      Data3: 1010552710
+      Data4: -1533299381
+    Path: event:/Sounds Drums/DrumBass
+  <SnareDrum>k__BackingField:
+    Guid:
+      Data1: -1904772404
+      Data2: 1317792577
+      Data3: -1942031218
+      Data4: 972684223
+    Path: event:/Sounds Drums/TomSnareDrum
+  <SoundSaved>k__BackingField:
+    Guid:
+      Data1: 1183135163
+      Data2: 1250723565
+      Data3: 1781533101
+      Data4: 1041339117
+    Path: event:/Recorded Sounds/NewEventSound
+--- !u!1 &566023846072713814
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 566023846072713813}
+  - component: {fileID: 566023846072713812}
+  m_Layer: 0
+  m_Name: AudioManagerFMOD
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &566023846072713813
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 566023846072713814}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 566023844707300770}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &566023846072713812
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 566023846072713814}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89d57dcdaaff6d647bc6235882013113, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  masterVolume: 1

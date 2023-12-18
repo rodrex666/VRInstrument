@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/InitialScene.unity
+    guid: 8da0c989255d67646bb2e96d20bb9502
+  - enabled: 1
+    path: Assets/Scenes/PlayInstrumentScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/TutorialButtons.unity
+    guid: 23cf21b874cf085438c515e3a2dd6f19
+  - enabled: 1
+    path: Assets/Scenes/TutorialSound.unity
+    guid: ed75494f32d273b44b0fa5f4bb692074
+  - enabled: 1
+    path: Assets/Scenes/TutorialSoundEmitter.unity
+    guid: 7139c94b25198454cac964d1f59667bb
+  - enabled: 1
+    path: Assets/Scenes/TutorialButtonSound.unity
+    guid: 005138226f5b45444bcb5f45ba65446c
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: acfb09be4e9f2ae40ac1c1ff499c85e6, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fe508e4ff97e6b14080f2e2c826324f7, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 406a5378822cf3b4b8bf0281b87fdb25, type: 2}
